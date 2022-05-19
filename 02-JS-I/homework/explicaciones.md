@@ -22,3 +22,7 @@ Son valores lógicos que podemos establecer a lo largo de nuestro código o que 
 
 - Verdadero = 1 = True
 - Falso = 0 = False
+
+Este es el final de mi tarea.
+Saludos
+Andreś
